@@ -607,15 +607,13 @@ endpoint could expose our Azure managed identity credentials.
 ## What This Means for My AppSec Path
 
 Going through these 10 vulnerabilities as a C# .NET developer made me 
-realize something — I've probably written code that had some of these 
-issues without knowing it. Not because I was careless but because nobody 
-taught me to think about it from an attacker's perspective.
+realized I've probably written code that had some of these 
+issues without knowing it. Not because I was careless but because I wasn't aware about it at the time.
 
 That's exactly what AppSec engineering is. It's bringing the attacker's 
 perspective into the development process so these issues get caught before 
 they ship. As someone who's been on the builder side for 3 years I think 
-I have a unique advantage — I understand why developers write vulnerable 
-code, which makes me better at finding it and explaining how to fix it.
+I now  understand why developers write vulnerable code, which makes me better at finding it and explaining how to fix it.
 
 ---
 
