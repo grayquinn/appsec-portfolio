@@ -6,4 +6,4 @@ PortSwigger Web Security Academy — SQL Injection path.
 |---|---|---|
 | Retrieving hidden data | Apprentice |  Complete |
 | Subverting application logic | Apprentice |  Complete |
-| UNION attack basics | Practitioner | 🔄 In Progress |
+| UNION attack basics | Practitioner |  In Progress |
